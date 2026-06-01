@@ -1,4 +1,6 @@
-# 【万字文档\+完整源码】基于SpringBoot\+Vue 个人财务管理系统
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/251a4aa30f58430296747967d6aa4d09.jpeg#pic_center)
+
+# 资料获取  点击  [**《基于SpringBoot\+Vue 个人财务管理系统》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
 
 ## 一、项目整体概述
 
