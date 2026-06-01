@@ -244,3 +244,10 @@ Spring MVC 接口开发、全局跨域处理、统一返回结果封装、全局
 
 ## 八、源码与文档获取
 
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6ebfd26991ea4c1cb7fb7fc25bdfa902.jpeg)
+
+👇🏻 精彩专栏 **推荐订阅** 👇🏻 在下方专栏👇🏻不然下次找不到哟
+[**《Java精品推荐项目》**](https://itxiongmao.blog.csdn.net/category_9538286.html)
+[**《springboot+vue项目100套》**](https://blog.csdn.net/bruceliu_code/category_12767267.html)
+[**《ssm项目100套》**](https://blog.csdn.net/bruceliu_code/category_12768956.html)
+[**《微信小程序合集》**](https://blog.csdn.net/bruceliu_code/category_10034398.html)
